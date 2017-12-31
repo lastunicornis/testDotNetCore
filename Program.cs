@@ -8,5 +8,7 @@ namespace myApp
         {
             Console.WriteLine("Hello World! VS Code");
         }
+        
+        //some new test for fun
     }
 }
